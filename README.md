@@ -49,7 +49,7 @@ python dataCollection.py
 
 2. Show your hand to the camera
 3. Press 's' to save each frame
-4. The images will be saved in the Data/C directory
+4. The images will be saved in the Data/ directory
 
 ### Hand Sign Detection
 
